@@ -1,1 +1,1 @@
-FROM glitchtip/glitchtip:latest
+FROM glitchtip/glitchtip:v6
